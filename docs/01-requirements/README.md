@@ -24,7 +24,7 @@
 - [业务规则与验收基线](business-rules.md)
 - [修订依据、历史草案与 AI 使用记录](revision-notes.md)
 - [全部 StarUML 模型（单一工程）](diagrams/lab1-all-models.mdj)
-- [StarUML 图文件说明](diagrams/README.md)
+- [在线查看 UML 图（GitHub 图片预览）](diagrams/README.md#图片预览)
 
 ## 3. 项目概述
 
